@@ -1,4 +1,4 @@
-type PromptConfig = {
+export type PromptConfig = {
   title: string;
   inputPlaceholder: string;
   submitText: string;
